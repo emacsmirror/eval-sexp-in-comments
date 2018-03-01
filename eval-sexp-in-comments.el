@@ -6,11 +6,11 @@
 ;; Filename: eval-sexp-in-comments.el
 ;; Version: 1.0.0
 ;; Keywords: lisp
-;; Author: Alex Schroeder <al...@gnu.org>
-;; Maintainer: Alex Schroeder <al...@gnu.org>
+;; Author: Alex Schroeder <alex@gnu.org>
+;; Maintainer: Alex Schroeder <alex@gnu.org>
 ;; Created: 2001-01-07
 ;; Description: evaluate sexps in comments
-;; URL: http://www.geocities.com/kensanata/emacs.html
+;; URL: https://github.com/kensanata/eval-sexp-in-comments
 ;; Compatibility: Emacs20, XEmacs21
 
 ;; `eval-last-sexp-in-comments' attempts to evaluate the last sexp using
