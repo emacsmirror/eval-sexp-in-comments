@@ -88,4 +88,5 @@ This works even if the sexp before point is commented out."
 
 (define-key emacs-lisp-mode-map (kbd "C-x C-e") 'eval-last-sexp-in-comments)
 
+(provide 'eval-sexp-in-comments)
 ;;; eval-sexp-in-comments.el ends here
